@@ -13,7 +13,7 @@ var About = (props) => {
     <div>
       <h1 className="text-center">About ReactWeather</h1>
       <p>This is a simple weather application built by Kevin Brown with React.</p>
-      <p>Here are some of the tools I've used:</p>
+      <p>Here are the tools I've used:</p>
       <ul>
         <li>
           <a href="https://facebook.github.io/react">React</a> - This is the JavaScript framework used.
