@@ -16,7 +16,7 @@ var About = (props) => {
       <p>Here are some of the tools I've used:</p>
       <ul>
         <li>
-          <a href="https://facebook.github.io/react">React</a> - This is the JaveScript framework used.
+          <a href="https://facebook.github.io/react">React</a> - This is the JavaScript framework used.
         </li>
         <li>
           <a href="http://openweathermap.org">Open Weather Map</a> - I used the Open Weather Map API to search for weather data by city name.
